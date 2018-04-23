@@ -4,9 +4,9 @@ Repository used for the HackaTrain Contest assignment. It contains the explanati
 
 ## Assignment
 
-> **As a** Parkmobile backend developer<br/>
+> **As a** Hackatrain contestant<br/>
 **I want** to have an easy, standardized way of importing location files<br/>
-**So that** our location datastore is kept up-to-date.
+**So that** the location datastore is kept up-to-date
 
 ## Narrative
 
