@@ -1,6 +1,7 @@
 # How to contribute
 
--
+- TODO: Samir write this file with instrcutions for devskiller
+- TODO: Samir randomize CSV values a bit more
 
 ## Getting Started
 
