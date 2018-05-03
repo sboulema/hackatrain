@@ -15,7 +15,7 @@ Unfortunately our clients highly rely on their Microsoft Office environments, me
 
 This is where **you** come in!
 
-We are looking for a simple, yet effective way, to import these CSV files into our datastore, removing the chances of human mistakes in the process where ever we can.
+We are looking for a simple, yet effective way, to import these CSV files into our datastore, removing the chances of human mistakes in the process.
 
 ### Requirements / Acceptance criteria
 
@@ -36,7 +36,6 @@ The datastore is completely shielded of from outside access for security reasons
 ## Scope
 
 - Import all CSV asset files
-- Import Excel files (out of scope for now)
 - Mocked datastore
 
 ## Tasks
